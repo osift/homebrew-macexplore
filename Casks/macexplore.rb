@@ -1,6 +1,6 @@
 cask "macexplore" do
-  version "1.11"
-  sha256 "1d16551a3ea9a9fad8db5428c23976841e4ccb7091de4b951426d0a9c95bd0bd"
+  version "1.1.0"
+  sha256 "4873200ed95c122860b4b0adbca6b43754d38e50331eddc961c19c3e66fbaa23"
 
   url "https://github.com/osift/macexplore/releases/download/v#{version}/MacExplore-#{version}.dmg",
       verified: "github.com/osift/macexplore/"
